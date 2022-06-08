@@ -1,0 +1,8 @@
+.gates__container {
+    width: 400px
+}
+
+.gates {
+    display: flex;
+    flex-wrap: wrap;
+}

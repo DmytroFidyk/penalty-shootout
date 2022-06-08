@@ -1,11 +1,14 @@
-
 import './App.css';
+
+import Header from './components/Header';
+import Gates from './components/Gates';
 
 function App() {
   return (
-    <div>
-      <h1>Серія пенальті</h1>
-    </div>
+    <>
+      <Header/>
+      <Gates/>
+    </>     
   );
 }
 
